@@ -1,0 +1,1 @@
+import{_ as r}from"#entry";import{N as o,H as t,W as s}from"./K3gJsStH.js";const a={};function n(e,c){return t(),o("table",null,[s(e.$slots,"default")])}const _=r(a,[["render",n]]);export{_ as default};

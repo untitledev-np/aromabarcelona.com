@@ -1,0 +1,1 @@
+import{_ as o}from"#entry";import{N as r,H as t,W as s}from"./K3gJsStH.js";const c={};function n(e,a){return t(),r("code",null,[s(e.$slots,"default")])}const _=o(c,[["render",n]]);export{_ as default};
